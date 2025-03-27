@@ -6,3 +6,10 @@ git branch version2 (nueva rama)
 git checkout version2 (ingreso a la nueva rama)
 touch version2.txt (creo un archivo en la nueva branch)
 este archivo solo esta disponible en esa branch
+
+merge de las ramas (unificar)
+git checkout main
+git merge version2
+git branch version2
+git push -u origin version2
+Mateo Richetta

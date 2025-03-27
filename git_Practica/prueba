@@ -1,5 +1,8 @@
 44974030
 probando probando
 git pull para cargar los cambios al bash
-git branch
-git branch version2 una nueva rama
+git branch (ramas disponibles)
+git branch version2 (nueva rama)
+git checkout version2 (ingreso a la nueva rama)
+touch version2.txt (creo un archivo en la nueva branch)
+este archivo solo esta disponible en esa branch
